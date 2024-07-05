@@ -60,3 +60,4 @@ const updateLocalStore = () => {
 
 createBtn.addEventListener("click", () => createButton());
 window.addEventListener("DOMContentLoaded", loadData);
+
